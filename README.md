@@ -1,3 +1,6 @@
+> [!WARNING]
+> This example is archived and no longer maintained. For current examples, see [agent-starter-react-native](https://github.com/livekit-examples/agent-starter-react-native).
+
 # LiveKit React-Native CallKit Example
 
 React Native example showing CallKit (iOS) and ConnectionService (Android) integration with LiveKit using [@livekit/react-native-callkeep](https://github.com/livekit/react-native-callkeep).
